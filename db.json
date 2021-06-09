@@ -24,8 +24,7 @@
       "title": "Tablet",   
       "description": "Tablet is the most useful device used for meeting"   
    }  
-]  ,
-
+],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
